@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Sunwin - Cổng Game Bài Macau Giải Trí Hàng Đầu
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Sunwin <https://schoolrevisionapps.com/>`_ là một trong những cổng game giải trí trực tuyến hàng đầu, nổi tiếng với sự đa dạng và chất lượng trong từng sản phẩm. Nay kết hợp với schoolrevisionapps.com, người chơi có thể tìm thấy hàng loạt tựa game hấp dẫn như game bài truyền thống, slot quay hũ, và các trò chơi đổi thưởng với cơ hội nhận được nhiều phần quà giá trị. Nhờ vào sự phát triển liên tục và không ngừng đổi mới, Sunwin mang đến cho người chơi những trải nghiệm giải trí đỉnh cao, phù hợp với mọi lứa tuổi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: tphcm, 11k Ấp 3, Vĩnh Lộc B, Bình Chánh, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0396580322. 
 
-Contents
---------
+Email: info@schoolrevisionapps.com. 
 
-.. toctree::
+Website: https://schoolrevisionapps.com/
 
-   usage
-   api
+#sunwin #trangchusunwin #dangkysunwin #dangnhapsunwin #linksunwin
